@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hello, I'm Enea!
+I'm a salesforce Solution Engineer in Cologne, Germany, specialized in B2B Commerce.
 
-<!--
-**eneag-sf/eneag-sf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💖 [Support my projects on GitHub Sponsor](https://github.com/sponsors/eneag-sf)
 
-Here are some ideas to get you started:
+### 😄 About me 
+- 🔭 I'm very passionate on learning and improving my developer skills everyday
+- 🌱 I’m learning Javascript, apex and Typescript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Find me on the web
+- 🐦 Talk and share articles about salesforce [Linkedin](https://www.linkedin.com/in/eneagjoka/)
+- 🎙️ Blazing my trail at [Trailhead](https://trailblazer.me/id/eneagjoka)
+
+### 📫 Get in touch
+- 📧 You can reach me at [Gmail](enea.gjoka@salesfive.com) or [Linkedin](https://www.linkedin.com/in/eneagjoka/)
