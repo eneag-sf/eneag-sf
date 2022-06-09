@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Enea!
-I'm a salesforce Solution Engineer in Cologne, Germany, specialized in B2B Commerce.
+I'm a salesforce Solution Engineer based in Cologne (Germany), specialized in B2B Commerce.
 
 💖 [Support my projects on GitHub Sponsor](https://github.com/sponsors/eneag-sf)
 
