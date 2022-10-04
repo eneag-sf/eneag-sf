@@ -8,7 +8,7 @@ I'm a salesforce Solution Engineer based in Cologne 🇩🇪, specialized in B2B
 - 🌱 I’m learning Javascript, apex and Typescript.
 
 ### 🌎 Find me on the 
-- 🌀 My website at [eneagjoka.com](https://trailblazer.me/id/eneagjoka)
+- 🌀 My website at [eneagjoka.com](https://eneagjoka.com)
 - 🐦 Talk and share articles about salesforce [Linkedin](https://www.linkedin.com/in/eneagjoka/)
 - 🎙️ Blazing my trail at [Trailhead](https://trailblazer.me/id/eneagjoka)
 
