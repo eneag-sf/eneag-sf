@@ -7,6 +7,10 @@ I'm a salesforce Solution Engineer based in Cologne 🇩🇪, specialized in B2B
 - 🔭 I'm very passionate on learning and improving my developer skills everyday
 - 🌱 I’m learning Javascript, apex and Typescript.
 
+<p align="center">
+  <img src="[https://imgur.com/a/CGcHFlp" width="200" title="Goku n'Re">
+</p>
+
 ### 🌎 Find me on the 
 - 🌀 My website at [eneagjoka.com](https://eneagjoka.com)
 - 🐦 Talk and share articles about salesforce [Linkedin](https://www.linkedin.com/in/eneagjoka/)
