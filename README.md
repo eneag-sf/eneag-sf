@@ -8,7 +8,7 @@ I'm a salesforce Solution Engineer based in Cologne 🇩🇪, specialized in B2B
 - 🌱 I’m learning Javascript, apex and Typescript.
 
 <p align="center">
-  <img src="[https://imgur.com/a/CGcHFlp" width="200" title="Goku n'Re">
+  <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
 </p>
 
 ### 🌎 Find me on the 
