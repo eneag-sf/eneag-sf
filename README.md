@@ -5,7 +5,7 @@ I'm a salesforce Solution Engineer based in Cologne 🇩🇪, specialized in B2B
 
 ### 😄 About me 
 - 🔭 I'm very passionate on learning and improving my developer skills everyday
-- 🌱 I’m learning Javascript, apex and Typescript.
+- 🌱 I’m learning Javascript and Apex.
 
 <p align="left">
   <img src="https://i.imgur.com/znnK0Cw.png" width="400" title="Goku n'Re">
