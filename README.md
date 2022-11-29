@@ -18,3 +18,7 @@ I'm a salesforce Solution Engineer based in Cologne 🇩🇪 specialized in B2B 
 
 ### 📫 Get in touch
 - 📧 You can reach me at [Gmail](enea.gjoka@trailblazercgl.com) or [Linkedin](https://www.linkedin.com/in/eneagjoka/)
+
+<p align="left">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=eneag-sf" id="counter">
+</p>
