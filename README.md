@@ -1,6 +1,6 @@
 # Give Me The Lowdown
 
-Hi there, thanks for visiting my GitHub Profile. I'm a salesforce Solution Engineer based in Cologne 🇩🇪 specialized in B2B Commerce on Lightning Platform. 
+Hi there, thanks for visiting my GitHub Profile. I'm a Salesforce Solution Engineer based in Cologne 🇩🇪 specialized in B2B Commerce on Lightning Platform. 
 
 ## About me 
 
