@@ -1,8 +1,6 @@
 ## 👋 Hello, I'm Enea!
 I'm a salesforce Solution Engineer based in Cologne 🇩🇪 specialized in B2B Commerce on Lightning Platform. 
 
-💖 [Support my projects on GitHub Sponsor](https://github.com/sponsors/eneag-sf)
-
 ### 😄 About me 
 - 🔭 I'm very passionate on learning and improving my developer skills everyday
 - 🌱 I’m learning Javascript and Apex.
