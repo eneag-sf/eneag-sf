@@ -7,10 +7,10 @@
 - 🌱 I’m learning Javascript and Apex.
 
 <p align="left">
-  <img src="https://i.imgur.com/znnK0Cw.png" width="400" title="Goku n'Re">
+  <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
 </p>
 
-## Find me on the 
+## Find me on
 - 🌀 My website at [eneagjoka.com](https://eneagjoka.com)
 - 🐦 Talk and share articles about salesforce [Linkedin](https://www.linkedin.com/in/eneagjoka/)
 - 🎙️ Blazing my trail at [Trailhead](https://trailblazer.me/id/eneagjoka)
