@@ -2,15 +2,15 @@
 
 Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B Solution Architect based in Cologne 🇩🇪, specialized in B2B Commerce on Lightning Platform and DevOps.
 
+<p align="center">
+  <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
+</p>
+
 ## About me 
 
 - Apex, JavaScript and Typescript enthusiast.
 - I'm very passionate on learning and improving my architect/developer skills everyday
 - ∞/21M believer
-
-<p align="center">
-  <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
-</p>
 
 ## Find me on
 
