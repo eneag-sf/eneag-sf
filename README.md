@@ -1,6 +1,6 @@
 # Give Me The Lowdown 👀
 
-Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a certified salesforce B2B Solution Architect @ [salesfive GmbH](https://www.salesfive.com/en), based in Cologne, Germany 🇩🇪.
+Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a [certified](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=jzwGGO6/DAqjJp/rnXs4jTw1oFtoquIvhFFscAUeqEgVhe0RTpwAmTiXLrNWlQQZ) salesforce B2B Solution Architect @ [salesfive GmbH](https://www.salesfive.com/en), based in Cologne, Germany 🇩🇪.
 Specialized in B2B Commerce on Lightning Platform and salesforce DevOps.
 
 <p align="center">
