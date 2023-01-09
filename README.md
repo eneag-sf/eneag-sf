@@ -1,6 +1,7 @@
 # Give Me The Lowdown 👀
 
-Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B Solution Architect based in Cologne 🇩🇪, specialized in B2B Commerce on Lightning Platform and DevOps.
+Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B Solution Architect @ [salesfive](https://www.salesfive.com/en), based in Cologne, Germany 🇩🇪.
+Specialized in B2B Commerce on Lightning Platform and salesforce DevOps.
 
 <p align="center">
   <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
@@ -10,6 +11,7 @@ Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B
 
 - Apex, JavaScript and Typescript enthusiast.
 - I'm very passionate on learning and improving my architect/developer skills everyday
+- Love helping team-mates on deliverying complex solutions with state of the art CI-CD pipelines
 - ∞/21M believer
 
 ## Find me on
