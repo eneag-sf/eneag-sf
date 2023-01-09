@@ -6,7 +6,7 @@ Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B
 
 - Apex, JavaScript and Typescript enthusiast.
 - I'm very passionate on learning and improving my architect/developer skills everyday
-- ∞/21Mln
+- ∞/21Mln believer
 
 <p align="center">
   <img src="https://i.imgur.com/znnK0Cw.png" width="200" title="Goku n'Re">
