@@ -1,6 +1,6 @@
 # Give Me The Lowdown 👀
 
-Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B Solution Architect based in Cologne 🇩🇪 specialized in B2B Commerce on Lightning Platform and DevOps.
+Hi there, thanks for visiting my GitHub Profile. I'm a certificed salesforce B2B Solution Architect based in Cologne 🇩🇪, specialized in B2B Commerce on Lightning Platform and DevOps.
 
 ## About me 
 
