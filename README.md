@@ -22,6 +22,13 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
 ## Get in touch
 - 📧 You can directly reach by [emailing me](enea.gjoka@trailblazercgl.com) or through [Linkedin](https://www.linkedin.com/in/eneagjoka/)
 
+## Some stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneag-sf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+  
+![nvuillam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneag-sf&langs_count=8&theme=radical&layout=compact&card_width=445)
+
+![Profile views](https://komarev.com/ghpvc/?username=eneag-sf&color=green)
 
 <p align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=eneag-sf" id="counter">
