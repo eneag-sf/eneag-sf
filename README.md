@@ -28,8 +28,6 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
   
 ![nvuillam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneag-sf&langs_count=8&theme=radical&layout=compact&card_width=445)
 
-![Profile views](https://komarev.com/ghpvc/?username=eneag-sf&color=green)
-
 <p align="left">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=eneag-sf" id="counter">
 </p>
