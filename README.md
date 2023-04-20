@@ -22,7 +22,7 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
 ## Get in touch
 - 📧 You can directly reach by [emailing me](enea.gjoka@trailblazercgl.com) or through [Linkedin](https://www.linkedin.com/in/eneagjoka/)
 
-## Some stats
+## Other stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eneag-sf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
   
