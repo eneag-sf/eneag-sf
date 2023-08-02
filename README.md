@@ -11,7 +11,7 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
 - Apex, JavaScript and Typescript enthusiast.
 - I'm very passionate on learning and improving my architect/developer skills everyday
 - Love helping team-mates on deliverying complex solutions with state of the art CI-CD pipelines
-- ∞/21M believer
+- 🌎/21M
 
 ## Find me on
 
