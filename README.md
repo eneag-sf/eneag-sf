@@ -4,6 +4,8 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
 
 ## My GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneag-sf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+
 [![EG's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneag-sf&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me 
@@ -23,8 +25,6 @@ Hi there 👋🏽 thanks for visiting my GitHub profile. I'm a <a href="https://
 - 📧 You can directly reach by [emailing me](enea.gjoka@trailblazercgl.com) or through [Linkedin](https://www.linkedin.com/in/eneagjoka/)
 
 ## Other stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eneag-sf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
   
 ![nvuillam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eneag-sf&langs_count=8&theme=radical&layout=compact&card_width=445)
 
